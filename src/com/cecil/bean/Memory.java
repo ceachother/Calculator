@@ -22,6 +22,11 @@ public class Memory{
     }
 
     public void setValue(String value) {
+
+        if (value.endsWith(".0"))
+        {
+            value = value.replace(".0","");
+        }
         this.value = value;
     }
 

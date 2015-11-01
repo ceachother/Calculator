@@ -13,7 +13,9 @@ public enum InputTypeEnum {
 
     MC(4,"MC"),
 
-    BRACKET(5,"()");
+    BRACKET(5,"()"),
+    
+    COMPLEMENTOR(6,"COM");
 
     private int type;
 
