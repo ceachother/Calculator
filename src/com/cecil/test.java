@@ -15,27 +15,37 @@ public class test {
 
 //            System.out.print(p.print("MC")+"\r\n");
 //            System.out.print(p.print("5")+"\r\n");
-            System.out.print(p.print("*")+"\r\n");
-//
-            System.out.print(p.print("2")+"\r\n");
-            System.out.print(p.print("*")+"\r\n");
-            System.out.print(p.print("(")+"\r\n");
+//            System.out.print(p.print("*")+"\r\n");
+////
+//            System.out.print(p.print("2")+"\r\n");
+//            System.out.print(p.print("*")+"\r\n");
+//            System.out.print(p.print("(")+"\r\n");
+//            System.out.print(p.print("1")+"\r\n");
+//            System.out.print(p.print("+")+"\r\n");
+//            System.out.print(p.print("3")+"\r\n");
+//            System.out.print(p.print("*")+"\r\n");
+//            System.out.print(p.print("(")+"\r\n");
+//            System.out.print(p.print("2")+"\r\n");
+//            System.out.print(p.print("+")+"\r\n");
+//            System.out.print(p.print("4")+"\r\n");
+//            System.out.print(p.print(")")+"\r\n");
+//            System.out.print(p.print(")")+"\r\n");
+//            System.out.print(p.print("=")+"\r\n");
+//            System.out.print(p.print("MC") +"\r\n");
+
+            System.out.print(p.print("-") +"\r\n");
+//            System.out.print(p.print("") +"\r\n");
+//            System.out.print(p.print("") +"\r\n");
+            System.out.print(p.print("COM")+"\r\n");
+            System.out.print(p.print("1")+"\r\n");
+            System.out.print(p.print("-")+"\r\n");
             System.out.print(p.print("1")+"\r\n");
             System.out.print(p.print("+")+"\r\n");
-            System.out.print(p.print("3")+"\r\n");
-            System.out.print(p.print("*")+"\r\n");
-            System.out.print(p.print("(")+"\r\n");
-            System.out.print(p.print("2")+"\r\n");
-            System.out.print(p.print("+")+"\r\n");
-            System.out.print(p.print("4")+"\r\n");
-            System.out.print(p.print(")")+"\r\n");
-            System.out.print(p.print(")")+"\r\n");
+            System.out.print(p.print("5")+"\r\n");
+            System.out.print(p.print("-")+"\r\n");
+            System.out.print(p.print("5")+"\r\n");
             System.out.print(p.print("=")+"\r\n");
-            System.out.print(p.print("MC") +"\r\n");
-//            System.out.print(p.print("+") +"\r\n");
-//            System.out.print(p.print("0")+"\r\n");
-//            System.out.print(p.print("+")+"\r\n");
-
+//            System.out.println(Double.valueOf("+1"));
 
         }
         catch (Exception e)

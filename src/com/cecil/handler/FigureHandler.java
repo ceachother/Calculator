@@ -10,7 +10,8 @@ public class FigureHandler extends Handler {
     @Override
     public String handle(Memory memory, String input) {
         String result = input;
-        if( ! memory.getValue().equals("") )
+        String value = memory.getValue().equals("") ? "0":memory.getValue();
+        if( !value.equals("0"))
         {
             result = memory.getValue() + input;
         }

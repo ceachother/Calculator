@@ -26,6 +26,7 @@ public class HandlerFactory {
         handlerMap.put(InputTypeEnum.MC.type(),new ClearHandler());
 
         handlerMap.put(InputTypeEnum.BRACKET.type(),new BracketHandler());
+        handlerMap.put(InputTypeEnum.COMPLEMENTOR.type(),new ComplementorHandler());
     }
 
     public Handler createHandler(Integer type)
